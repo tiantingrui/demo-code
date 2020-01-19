@@ -1,0 +1,16 @@
+{
+  "name": "Jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
